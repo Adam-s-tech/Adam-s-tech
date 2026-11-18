@@ -37,7 +37,7 @@ Diagnostiquer, construire, transmettre : trois verbes pour passer d'un usage pon
 
 ## Veille et labo
 
-- [mirage-demo](https://github.com/Adam-s-tech/mirage-demo) : démo française d'OCR, de vision et d'extraction JSON dans le navigateur.
+- [ocr-llm-miniature](https://github.com/Adam-s-tech/ocr-llm-miniature) : OCR et vision avec un LLM miniature, exécutés localement dans le navigateur.
 - [Labo Adam AI](https://lab.adamai.fr) : analyses courtes et non techniques sur l'IA générative.
 
 ## Ce que je fais
