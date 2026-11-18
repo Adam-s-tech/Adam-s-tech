@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Adama</title>
+  <desc id="bannerDesc">Consultant-formateur en IA générative, agents IA, n8n et formation</desc>
+  <defs>
+    <linearGradient id="bannerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2D3561"/>
+      <stop offset="1" stop-color="#5847A7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bannerBg)"/>
+  <g opacity="0.12" fill="#AC28B4">
+    <circle cx="1060" cy="50" r="130"/>
+    <circle cx="1150" cy="260" r="90"/>
+  </g>
+  <rect x="80" y="214" width="96" height="6" rx="3" fill="#AC28B4"/>
+  <text x="80" y="132" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#FFFFFF">Adama</text>
+  <text x="80" y="188" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#E9E5F7">IA générative · Agents IA · n8n · Formation</text>
+</svg>
